@@ -3,3 +3,4 @@ pdb/
 papers/
 proposal/
 *.pdf
+code/.ipynbs_checkpoints/

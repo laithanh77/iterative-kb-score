@@ -6,4 +6,6 @@ proposal/
 *.pdf
 code/.ipynb_checkpoints/
 code/test_biopython.ipynb
+code/*.o*
+code/*.e*
 data/

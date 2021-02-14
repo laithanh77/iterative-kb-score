@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
 pdb/
+*.zip
 papers/
 proposal/
 *.pdf

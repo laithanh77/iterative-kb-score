@@ -37,5 +37,5 @@ for pdb_code in pdb_codes:
                             else:
                                 pairs[(prot_id, lig_id)][r] += 1
 
-with open('g_obs.pkl', 'wb') as handle:
+with open('p_obs.pkl', 'wb') as handle:
     pickle.dump(pairs, handle, protocol=pickle.HIGHEST_PROTOCOL)

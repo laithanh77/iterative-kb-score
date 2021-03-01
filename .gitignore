@@ -4,8 +4,7 @@ pdb/
 papers/
 proposal/
 *.pdf
-code/.ipynb_checkpoints/
-code/test_biopython.ipynb
-code/*.o*
-code/*.e*
-data/
+src/.ipynb_checkpoints/
+src/test_biopython.ipynb
+src/*.o*
+src/*.e*

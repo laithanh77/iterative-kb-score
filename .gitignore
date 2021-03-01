@@ -8,3 +8,4 @@ src/.ipynb_checkpoints/
 src/test_biopython.ipynb
 src/*.o*
 src/*.e*
+data/

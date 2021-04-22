@@ -8,3 +8,11 @@ requirements
 1. conda installation: biopython, scipy, numpy
 
 2. openbabel
+
+usage:
+
+download pdb files from rcsb website and unzip it into the pdb/train_coupled/ dir.
+Go to src/
+run "python program.py &> output.txt &"
+wait 30 or so minutes
+use the ipynb in data/ to view the results

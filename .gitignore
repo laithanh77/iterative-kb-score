@@ -1,5 +1,4 @@
 .ipynb_checkpoints/
-pdb/
 *.zip
 papers/
 proposal/
@@ -8,4 +7,3 @@ src/.ipynb_checkpoints/
 src/test_biopython.ipynb
 src/*.o*
 src/*.e*
-data/
